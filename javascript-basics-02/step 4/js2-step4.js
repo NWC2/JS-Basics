@@ -8,9 +8,5 @@ function myFunction(){
         name.value = ""
         surname.value="";
         city.value="";
-
-   
-
-    
     }
 }
